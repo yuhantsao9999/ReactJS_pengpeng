@@ -1,0 +1,20 @@
+.switch {
+  width: 60px;
+  height: 30px;
+  background-color: #dddddd;
+  border-radius: 15px;
+}
+
+.switch > .btn {
+  width: 30px;
+  height: 30px;
+  background-color: #2e2c2c;
+  border-radius: 15px;
+}
+.switch-on {
+  background-color: #b5ffe1;
+}
+.switch-on > .btn {
+  background-color: #6eaf81;
+  margin-left: 30px;
+}
